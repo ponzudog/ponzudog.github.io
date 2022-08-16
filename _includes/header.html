@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container">
     <a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
@@ -21,10 +21,10 @@
           <a class="nav-link" href="{{ site.github.repository_url }}">Fork me on Github</a>
         </li> -->
         <li class="nav-item">
-          <a class="nav-link" href="{{ my_page.url | relative_url }}">Buy on DogeSwap</a>
+          <a class="btn btn-outline-warning" style="margin-right: 12px;" href="{{ my_page.url | relative_url }}">Buy on DogeSwap</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{ my_page.url | relative_url }}">DexScreener chart</a>
+          <a class="btn btn-outline-success" href="{{ my_page.url | relative_url }}">DexScreener chart</a>
         </li>
       </ul>
     </div>
