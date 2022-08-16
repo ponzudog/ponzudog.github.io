@@ -3,6 +3,7 @@ layout: page
 title: Ponzu
 ---
 
+<!---
 A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
 - A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
@@ -62,3 +63,6 @@ But if you don't know where to start I can recommend you to import a theme from 
 - Copy the content of `_bootswatch.scss` in `_sass/_bootstrap_customization.scss`.
 
 That's it, you now have a totally different appearance for you website.
+--->
+
+This will rule the world
