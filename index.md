@@ -1,7 +1,7 @@
----
+<!-- ---
 layout: page
-title: Ponzu
----
+title:
+--- -->
 
 <!---
 A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
@@ -64,5 +64,3 @@ But if you don't know where to start I can recommend you to import a theme from 
 
 That's it, you now have a totally different appearance for you website.
 --->
-
-This will rule the world
